@@ -1,2 +1,2 @@
 # skydiver
-Android side-scrolling obsttacle dodging game
+Android side-scrolling obstacle dodging game
